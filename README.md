@@ -1,4 +1,4 @@
-# 
+# Python Introductory Exercises
 
 This repository contains beginner-friendly exercises on Python basics.  
 Each problem includes a **README**, **pseudocode**, and a **solution template**.  
@@ -29,6 +29,5 @@ If you are **unable to create a Pull Request**, you may:
 - **Instructor:** Estifanos Abebaw  
 - **Telegram:** [@estifanos777](https://t.me/estifanos777)  
 - **Email:** tekle.estifanos.17@gmail.com  
-NAME: NEJAT SHIMELS
-ID:1700954
+
 ---

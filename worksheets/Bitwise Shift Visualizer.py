@@ -1,11 +1,7 @@
-num = int(input("Enter a number: "))
+"""
+Input an integer and number of shift positions.
 
-print(f"\nOriginal: {num} -> {bin(num)}")
+Show results of left shift and right shift.
 
-
-left = num << 1
-print(f"Left shift (num << 1): {left} -> {bin(left)}")
-
-
-right = num >> 1
-print(f"Right shift (num >> 1): {right} -> {bin(right)}")
+Print the binary form before and after.
+"""
